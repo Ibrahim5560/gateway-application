@@ -1,0 +1,24 @@
+{
+    "name": "Application",
+    "fields": [
+        {
+            "fieldName": "applicationCriteria",
+            "fieldType": "Json"
+        },
+        {
+            "fieldName": "activePhase",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20200218123600",
+    "entityTableName": "application",
+    "dto": "no",
+    "pagination": "no",
+    "service": "serviceImpl",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "readOnly": false,
+    "clientRootFolder": "",
+    "applications": "*"
+}
